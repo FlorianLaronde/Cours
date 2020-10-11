@@ -1,0 +1,67 @@
+LEs méthodes agiles caractérisent une approche de gestion de projet 
+De plus en plus répandu
+Grp de pilotage pour la réal de projet 
+
+Basé sur l’exp, plus souple et adapté au client (celui-ci basé au centre du projet) 
+
+Agile : apparaît en 2001 qui énonce les 12 valeurs pour l'entreprise 
+
+L’approche traditionnel : 
+le cahier des charges est supposé exhaustif dès le départ 
+les modifications sont mal accueillies (pour les dev et le client suite aux coûts supplémentaires)
+décourale l’amélioration continue
+la comm est peu fluide 
+
+méthode agile : 
+cahier des charges élaboré au fur et à mesure
+le projet est une succession de modifications 
+équipe constamment challengé et participe à l’amélioration continue
+communication constante
+
+Avant les méthodes agiles, 84% des projets étaient considéré comme des echecs (des arrêts et des coûts supplémentaires pour les clients) (1994) 
+
+                ------------------------------------------
+
+La méthodologie SCRUM : 
+le product owner (porte la vision du projet à réaliser, représentant généralement le client 
+scrum master (garant de l’application de la méthodologie scrum)  
+team (réalise le produit)
+
+
+Déroulement du projet Scrum : Du cahier des charges au produit finit) 
+
+backlog produit : lister toutes les fonctionnalités (ou user stories)  (authentification, paiement, inscription, …)  du projet
+backlog sprint : dure environ 2h, réunion entre le scrum master (avec le product owner)  et les équipes pour présenter le projet et les user stories 
+sprint (2 à 4 semaines) sachant que chaque développement de user stories ne doit pas dépasser 1 journée 
+produit partiel à présenter  avec les difficultés du projet (méthodologie de travail)
+
+1 - Le Backlog et use stories, il faut poser ces 4 questions 
+Qui ? En tant qu’utilisateur 
+Quoi ? Je dois pouvoir m’inscrire sur le site 
+Comment  ? grâce à un formulaire me demandant les infos suivantes : nom prénom date de naissance adresse mail mot de passe 
+Pourquoi ? Pour que mes informations soient enregistrées sur la base de données
+
+2- Backlog Sprint ou Cérémonie 
+Détailler les users stories (1 à faire par jour)
+Répartir les users stories entre les membres de l’équipe 
+
+3 - Sprint 
+1 projet est composé de plusieurs sprints 
+développement des users stories 
+
+4 - Mêlée 
+Réunion quotidienne de 15min environ 
+avec toute l’équipe de projet 
+présenter les difficultés  
+s’assurer que les obj sont tenus 
+Présenter ce qui va être réalisé dans la journée 
+
+5- Produit partiel 
+Sprint review meeting (ou revue d eprojet) 
+Démonstration au produit owner des derniers dév par le scrum master 
+
+
+
+
+
+
